@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @xDevilsCloverx, but my real name is Silas Rodriguez. I am a senior Computer Engineering student at Texas Tech University.
 
-- 👀 I’m studying Software Engineering, Machine Learning, Image and Audio Processing, Signal Processing, Cyber Security, Embedded Systems, Web Development,
-      Robotics, Operating Systems, and Electronics Hardware.
+- 👀 I’m studying Software Engineering, Machine Learning, Image and Audio Processing, Signal Processing, Cyber Security, Computer Architecture, Embedded Systems, Web Development, Robotics, Operating Systems, and Electronics Hardware.
 
 - 🌱 Exploring KiCAD PCB Design, Amplifier Design. I'm also learning C++, C, Python, Java, JavaScript, Rust, Lua, Verilog, and Assembly.
 

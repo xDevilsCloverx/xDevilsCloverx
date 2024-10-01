@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xVoidDevilx, but my real name is Silas Rodriguez. I am a senior Computer Engineering student at Texas Tech University.
+- 👋 Hi, I’m @xVoidDevilx, but my real name is Silas Rodriguez. Computer Engineer student from Texas Tech University & studying my Master's Degree in Computer Science @ UT Austin.
 
 - 👀 I’m studying embedded systems, software engineering, ML+AI, image and audio signal processing, computer networks, computer architecture, cyber security, web dev, robotics, OS, compiler and language theory, and advanced electronics.
 
